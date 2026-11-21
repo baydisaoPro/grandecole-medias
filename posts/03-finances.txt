@@ -1,6 +1,8 @@
 Savez-vous, à cet instant, combien votre école a encaissé ce mois-ci ?
 
-Avec GrandÉcole, la caisse, le budget et la paie sont réunis. Chaque paiement donne un reçu, chaque retard déclenche un rappel, et les vacations des enseignants sont calculées d'après les cours réellement émargés.
+Avec GrandÉcole, la caisse, le budget et la paie sont réunis. Les vacations des enseignants sont calculées d'après les cours réellement émargés, les retards de paiement déclenchent un rappel par SMS ou WhatsApp, et les familles peuvent payer depuis leur téléphone.
+
+Et bien sûr, l'essentiel est déjà là : frais d'inscription et de scolarité, plans de règlement, reçus, caisse journalière, comptabilité, budget et états financiers.
 
 Vous voyez en un coup d'œil ce qui est entré, ce qui reste à encaisser et ce qu'il faut payer.
 

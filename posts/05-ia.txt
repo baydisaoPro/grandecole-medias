@@ -2,7 +2,9 @@
 
 Avec GrandÉcole, la direction pose sa question à Claude ou à ChatGPT et obtient la réponse tirée de ses vraies données : inscriptions, encaissements, réussite.
 
-L'assistant peut aussi préparer le travail : inscrire une classe, organiser une délibération, relancer des paiements. Rien ne change dans l'école sans votre accord.
+L'assistant peut aussi préparer le travail : inscrire une classe entière, organiser une délibération, préparer l'emploi du temps, relancer les paiements. Il montre un aperçu, et rien ne change dans l'école sans votre accord.
+
+Et bien sûr, l'essentiel est déjà là : tableaux de bord, statistiques, exports et documents officiels, sans assistant si vous préférez.
 
 Demandez une démonstration : grandecole.app ou WhatsApp +221 77 755 71 04
 

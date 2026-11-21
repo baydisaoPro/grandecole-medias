@@ -1,6 +1,8 @@
 Une école, ce n'est pas que des notes.
 
-Cantine, bibliothèque, absences, retards, sanctions, infirmerie : GrandÉcole garde la trace de tout ce qui fait la vie de l'établissement. Et quand il le faut, les familles sont prévenues par SMS ou WhatsApp.
+GrandÉcole garde la trace de tout ce qui fait la vie de l'établissement, et prévient les familles au bon moment par SMS ou WhatsApp : une absence, un retard, un passage à l'infirmerie, une sortie.
+
+Et bien sûr, l'essentiel est déjà là : appel en classe, absences et retards, sanctions, cantine et abonnements, bibliothèque et prêts, infirmerie, sorties, registre d'accueil, calendrier scolaire et annonces.
 
 Tout est au même endroit, pour la direction comme pour les surveillants.
 
